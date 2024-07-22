@@ -58,12 +58,10 @@ Ocean acidification will impact the ability of organisms to calcify (e.g. corals
 Values below 1 are considered corrosive, and skeletons and shells may be subject to dissolution. ​
 - The ocean environment will become more stressful for marine organisms and ecosystems.
 
-![SST annual mean and change](./documentation/temp_plot.png)
-
-![MHW duration](./documentation/duration.png)
-![DHW average annual mean](./documentation/dhw_amax.png)
-
-![Aragonite saturation state annual mean and change](./documentation/OAR.png)
+![SST annual mean and change](./figures/temp.png)
+![MHW duration](./figures/duration.png)
+![DHW average annual mean](./figures/dhw_amax.png)
+![Aragonite saturation state annual mean and change](./figures/OAR.png)
 
 ##  Data/confidence ​
 
