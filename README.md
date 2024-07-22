@@ -56,9 +56,16 @@ Ocean acidification will impact the ability of organisms to calcify (e.g. corals
 - Great Barrier Reef and Ningaloo Reef will experience annual conditions for extreme bleaching by GWL3. ​
 - Acidity at GWL3: Southern Ocean surface waters south of 60°S will drop below an annual mean aragonite saturation state of 1. Values above 1.0 are required to produce calcareous shells or skeletons optimally.
 Values below 1 are considered corrosive, and skeletons and shells may be subject to dissolution. ​
-- The ocean environment will become more stressful for marine organisms and ecosystems. ​
+- The ocean environment will become more stressful for marine organisms and ecosystems.
 
-##  Data / confidence ​
+![SST annual mean and change](./documentation/temp_plot.png)
+
+![MHW duration](./documentation/duration.png)
+![DHW average annual mean](./documentation/dhw_amax.png)
+
+![Aragonite saturation state annual mean and change](./documentation/OAR.png)
+
+##  Data/confidence ​
 
 - Confidence: high confidence in the direction of change, medium confidence in the magnitude of change and low confidence in the ecological consequence of the changes.​ (consistent with IPCC AR6)
 - Limitation: ocean simulations that are not well suited for representing the high-resolution dynamics and features of the Australian coastal areas.​
